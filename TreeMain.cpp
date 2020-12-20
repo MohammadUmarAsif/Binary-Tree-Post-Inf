@@ -1,11 +1,3 @@
-/* Assignment
- * COC2910 - Data Structure and OOP Lab
- * Mohammad Umar Asif
- * A2CO - 43
- * 18COB176 
- * GK-7690
- */
- 
 /* This is a C++ program to obtain the postfix/infix notation of the arithmetic expression 
  * that is entered in the infix notation using the binary tree data structure.
  */
@@ -65,7 +57,6 @@ int main()
     
     cout<<"================================================================================================"<<endl;
     cout<<"Thank you."<<endl;
-    cout<<"Created by Mohammad Umar Asif"<<endl;
     return 0;
 } 
 
